@@ -17,17 +17,17 @@ Please create a pull request if you have something helpful to share.
 + [HuggingFace](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)
 
 ### Development Frameworks
-[Hugging Face](https://huggingface.co/) Provides easy Python libraries to design, train and infer with LLMs
++ [Hugging Face](https://huggingface.co/) Provides easy Python libraries to design, train and infer with LLMs
 
 ### Frameworks to interact with and use LLMs
-[LangChain - Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
-[LlamaIndex - Connect your LLM's with external data](https://github.com/jerryjliu/llama_index)
++ [LangChain - Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
++ [LlamaIndex - Connect your LLM's with external data](https://github.com/jerryjliu/llama_index)
 
 ### Run LLM on your Laptop (low resource devices)
-[Run the LLaMA model using 4-bit integer quantization on a MacBook](https://github.com/ggerganov/llama.cpp)
++ [Run the LLaMA model using 4-bit integer quantization on a MacBook](https://github.com/ggerganov/llama.cpp)
 
 ### Easy to read Concepts of LLMs
-[Visualization of Transformer](https://jalammar.github.io/illustrated-transformer/)
++ [Visualization of Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ### Datasets to train your LLM (if you have the infra)
-[Common Crawl](https://commoncrawl.org/)
++ [Common Crawl](https://commoncrawl.org/)
