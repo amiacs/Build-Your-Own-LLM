@@ -11,7 +11,7 @@ Please create a pull request if you have something helpful to share.
 + [LLaMa from Facebook](https://github.com/facebookresearch/llama) This model has been [leaked](https://www.deeplearning.ai/the-batch/how-metas-llama-nlp-model-leaked/) and can be found on torrents.
 
 #### Instruction Tuned LLMs
-+ Alpaco
++ [Alpaca from Stanford University](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 + Koala
 + HuggingFace
 
