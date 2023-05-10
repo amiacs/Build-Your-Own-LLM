@@ -16,6 +16,9 @@ Please create a pull request if you have something helpful to share.
 + [Koala from UC Berkeley](https://bair.berkeley.edu/blog/2023/04/03/koala/)
 + [HuggingFace](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)
 
+### Easy to read Concepts of LLMs
++ [Visualization of Transformer](https://jalammar.github.io/illustrated-transformer/)
+
 ### Development Frameworks
 + [Hugging Face](https://huggingface.co/) Provides easy Python libraries to design, train and infer with LLMs
 
@@ -26,8 +29,9 @@ Please create a pull request if you have something helpful to share.
 ### Run LLM on your Laptop (low resource devices)
 + [Run the LLaMA model using 4-bit integer quantization on a MacBook](https://github.com/ggerganov/llama.cpp)
 
-### Easy to read Concepts of LLMs
-+ [Visualization of Transformer](https://jalammar.github.io/illustrated-transformer/)
+### Frontends to interact with LLMs
++ [Web UI for LLMs](https://github.com/oobabooga/text-generation-webui)
++ [An LLM playground you can run on your laptop.](https://github.com/nat/openplayground)
 
 ### Datasets to train your LLM (if you have the infra)
 + [Common Crawl](https://commoncrawl.org/)
