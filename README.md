@@ -37,4 +37,4 @@ Please create a pull request if you have something helpful to share.
 ### Datasets to train your LLM (if you have the infra)
 + [Common Crawl](https://commoncrawl.org/)
 
-#### Safe Harbor - No liability for the information contained here. This is for educational purposes only.
+**Safe Harbor - No liability for the information contained here. This is for educational purposes only.
