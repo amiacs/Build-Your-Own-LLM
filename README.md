@@ -7,3 +7,16 @@ Please create a pull request if you have something helpful to share.
 
 ### Open Source LLMs
 [List of Open Sourced Fine-Tuned LLMs](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
+Alpaco
+Koala
+HuggingFace
+
+### Frameworks to interact with and use LLMs
+[LangChain - Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
+[LlamaIndex - Connect your LLM's with external data](https://github.com/jerryjliu/llama_index)
+
+### Run LLM on your Laptop (low resource devices)
+[Run the LLaMA model using 4-bit integer quantization on a MacBook](https://github.com/ggerganov/llama.cpp)
+
+### Datasets to train your LLM (if you have the infra)
+[Common Crawl](https://commoncrawl.org/)
