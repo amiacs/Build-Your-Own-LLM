@@ -7,13 +7,14 @@ Please create a pull request if you have something helpful to share.
 
 ### Open Source LLMs
 + [List of Open Sourced Fine-Tuned LLMs](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
-#### Foundation (Base) LLMs
-+ [LLaMa from Facebook](https://github.com/facebookresearch/llama) This model has been [leaked](https://www.deeplearning.ai/the-batch/how-metas-llama-nlp-model-leaked/) and can be found on torrents.
 
-#### Instruction Tuned LLMs
-+ [Alpaca from Stanford University](https://crfm.stanford.edu/2023/03/13/alpaca.html)
-+ Koala
-+ HuggingFace
+#### Foundation (Base) LLMs
++ [LLaMa from Facebook](https://github.com/facebookresearch/llama) Restricted use, but this model has been [leaked](https://www.deeplearning.ai/the-batch/how-metas-llama-nlp-model-leaked/) and can be found on torrents.
+
+#### Instruction Tuned LLMs (All of these are Restricted use, as they are based on Facebook's LLaMa)
++ [Alpaca from Stanford University](https://crfm.stanford.edu/2023/03/13/alpaca.html) 
++ [Koala from UC Berkeley](https://bair.berkeley.edu/blog/2023/04/03/koala/)
++ [HuggingFace](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)
 
 ### Frameworks to interact with and use LLMs
 [LangChain - Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
