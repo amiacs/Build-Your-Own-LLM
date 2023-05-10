@@ -23,5 +23,8 @@ Please create a pull request if you have something helpful to share.
 ### Run LLM on your Laptop (low resource devices)
 [Run the LLaMA model using 4-bit integer quantization on a MacBook](https://github.com/ggerganov/llama.cpp)
 
+### Easy to read Concepts of LLMs
+[Visualization of Transformer](https://jalammar.github.io/illustrated-transformer/)
+
 ### Datasets to train your LLM (if you have the infra)
 [Common Crawl](https://commoncrawl.org/)
