@@ -6,10 +6,14 @@ Most of the LLM foundation models, even if they are called Open, are behind clos
 Please create a pull request if you have something helpful to share.
 
 ### Open Source LLMs
-[List of Open Sourced Fine-Tuned LLMs](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
-Alpaco
-Koala
-HuggingFace
++ [List of Open Sourced Fine-Tuned LLMs](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
+#### Foundation (Base) LLMs
++ [LLaMa from Facebook](https://github.com/facebookresearch/llama) This model has been [leaked](https://www.deeplearning.ai/the-batch/how-metas-llama-nlp-model-leaked/) and can be found on torrents.
+
+#### Instruction Tuned LLMs
++ Alpaco
++ Koala
++ HuggingFace
 
 ### Frameworks to interact with and use LLMs
 [LangChain - Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
